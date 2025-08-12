@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">⚽ jogador de Futebol<br>🤖 Certifico em  AI-900<br>🖥️ Estudo na área de T.I "comecei esse ano"<br>🎮gosto de jogar video gamer</p>
+<p align="left">⚽ jogador de Futebol<br>🤖 Certificado em  AI-900<br>🖥️ Estudo na área de T.I "comecei esse ano"<br>🎮gosto de jogar video gamer</p>
 
 ###
 
