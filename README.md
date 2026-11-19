@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">⚽ jogador de Futebol<br>🤖 Certificado em  IA-900<br>🖥️ Estudo na área de T.I <br>
+<p align="left"><br>🤖 Certificado em  IA-900<br>🖥️ Estudo na área de T.I <br>
 
 ###
 
